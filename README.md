@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @achintyarut
-- 👀 Love programming life.
-- 🌱everything with react
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me 6360389534, email: artistmeachintya@gmail.com
+- 👀 self-taught software engineer
+- 🌱JavaScript, React .. aim-- fullstack.
+- 💞️ Curiosity, Learning, experimenting!!
+- 📫 6360389534, artistmeachintya@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: I am an artist,i love to create.
 
