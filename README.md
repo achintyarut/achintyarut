@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @achintyarut
+- 👋 Hi, I’m @achintyarut, programmer.
 - 👀 self-taught software engineer
-- 🌱JavaScript, React .. aim-- fullstack.
+- 🌱JavaScript, React .. aim-- fullstack developer
 - 💞️ Curiosity, Learning, experimenting!!
 - 📫 6360389534, artistmeachintya@gmail.com
 - 😄 Pronouns: He
